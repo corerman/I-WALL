@@ -26,7 +26,7 @@ namespace Shadowsocks
 
                 if (!mutex.WaitOne(0, false))
                 {
-                    Process[] oldProcesses = Process.GetProcessesByName("Shadowsocks");
+                    Process[] oldProcesses = Process.GetProcessesByName("I-WALL");
                     if (oldProcesses.Length > 0)
                     {
                         Process oldProcess = oldProcesses[0];
