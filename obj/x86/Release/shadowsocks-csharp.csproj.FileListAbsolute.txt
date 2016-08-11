@@ -1,0 +1,29 @@
+D:\DEBUG\VS2008\shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe.config
+D:\DEBUG\VS2008\shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe
+D:\DEBUG\VS2008\shadowsocks-csharp\bin\x86\Release\Shadowsocks.pdb
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\Shadowsocks.View.ConfigForm.resources
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\Shadowsocks.Properties.Resources.resources
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\Shadowsocks.View.QRCodeForm.resources
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\Shadowsocks.exe
+D:\DEBUG\VS2008\shadowsocks-csharp\obj\x86\Release\Shadowsocks.pdb
+D:\DEBUG\I Wall\shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe.config
+D:\DEBUG\I Wall\shadowsocks-csharp\bin\x86\Release\Shadowsocks.exe
+D:\DEBUG\I Wall\shadowsocks-csharp\bin\x86\Release\Shadowsocks.pdb
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\Shadowsocks.View.ConfigForm.resources
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\Shadowsocks.Properties.Resources.resources
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\Shadowsocks.View.QRCodeForm.resources
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\Shadowsocks.exe
+D:\DEBUG\I Wall\shadowsocks-csharp\obj\x86\Release\Shadowsocks.pdb
+D:\GIT\I-wall\bin\x86\Release\Shadowsocks.exe.config
+D:\GIT\I-wall\bin\x86\Release\Shadowsocks.exe
+D:\GIT\I-wall\bin\x86\Release\Shadowsocks.pdb
+D:\GIT\I-wall\obj\x86\Release\Shadowsocks.View.ConfigForm.resources
+D:\GIT\I-wall\obj\x86\Release\Shadowsocks.Properties.Resources.resources
+D:\GIT\I-wall\obj\x86\Release\Shadowsocks.View.QRCodeForm.resources
+D:\GIT\I-wall\obj\x86\Release\shadowsocks-csharp.csproj.GenerateResource.Cache
+D:\GIT\I-wall\obj\x86\Release\Shadowsocks.exe
+D:\GIT\I-wall\obj\x86\Release\Shadowsocks.pdb
