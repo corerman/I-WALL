@@ -14,7 +14,7 @@ Break The Net Wall 【新版本】
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Shadowsocks的工作原理，如图1所示。
 <p align="center"> 
-![Shadowsock工作原理](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/06/what-is-shadowsocks.png)
+<img src="http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/06/what-is-shadowsocks.png" />
 </p>
 <p align="center"> 
 图1. Shadowsock工作原理
