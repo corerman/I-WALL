@@ -13,9 +13,9 @@ Break The Net Wall 【新版本】
 
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Shadowsocks的工作原理，如图1所示。
-
-![Shadowsock工作原理](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/06/what-is-shadowsocks.png)
 <p align="center"> 
+![Shadowsock工作原理](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/06/what-is-shadowsocks.png)
+
 图1. Shadowsock工作原理
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;版本目前的新功能，主要在于账户信息的云端获取，用户不需要手动输入账号信息，直接从服务器获取即可，主要添加部分如图2所示。
