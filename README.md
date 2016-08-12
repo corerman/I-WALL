@@ -21,8 +21,12 @@ Break The Net Wall 【新版本】
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;版本目前的新功能，主要在于账户信息的云端获取，用户不需要手动输入账号信息，直接从服务器获取即可，主要添加部分如图2所示。
 
-![I-WALL目前添加功](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/08/iwall.png)
+<p align="center"> 
+<img src="http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/08/iwall.png" />
+</p>
+<p align="center"> 
 <center>图2. I-WALL目前添加功能</center>
+</p>
 ***
 &nbsp;&nbsp;&nbsp;&nbsp;增加云端账户验证的模块，是为了更好地共享服务器流量，账户分为公用账户和高速通道账户，如果有志愿者愿意提供可用的Shadowsocks账户，那么项目就可以把新账户保存在服务器中。如果志愿者不愿意公开自己的账户，那么项目会把其提供的配置文件设置为快速通道类别，只能供其个人使用。
 
