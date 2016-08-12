@@ -17,6 +17,7 @@ Break The Web Wall 【新版本】
 <center>图1. Shadowsock工作原理</center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;版本目前的新功能，主要在于账户信息的云端获取，用户不需要手动输入账号信息，直接从服务器获取即可，主要添加部分如图2所示。
+
 ![](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/08/iwall.png)
 <center>图2. I-WALL目前添加功能</center>
 ***
