@@ -9,8 +9,9 @@ Break The Web Wall 【新版本】
 &nbsp;&nbsp;&nbsp;&nbsp;项目名称为I-WALL，相关资源如下：
 
 * [GitHub项目地址](https://github.com/corerman/I-WALL)
-* [x86二进制文件下载](https://github.com/corerman/I-WALL/releases)
-***
+* [x86二进制文件下载](https://github.com/corerman/I-WALL/releases)<br />
+
+---
 &nbsp;&nbsp;&nbsp;&nbsp;Shadowsocks的工作原理，如图1所示。
 ![](http://7u2nup.com1.z0.glb.clouddn.com/content/images/2016/06/what-is-shadowsocks.png)
 <center>图1. Shadowsock工作原理</center>
