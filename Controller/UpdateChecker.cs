@@ -18,7 +18,7 @@ namespace Shadowsocks.Controller
         public string LatestVersionURL;
         public event EventHandler NewVersionFound;
 
-        public const string Version = "2.3.1";
+        public const string Version = "500.9.2"; //原版本2.3.1 设置为500.9.2 避免更新
 
         public void CheckUpdate(Configuration config)
         {
