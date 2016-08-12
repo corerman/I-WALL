@@ -8,7 +8,7 @@ Break The Net Wall 【新版本】
 
 &nbsp;&nbsp;&nbsp;&nbsp;项目名称为I-WALL，相关资源如下：
 
-* [GitHub项目地址](https://github.com/corerman/I-WALL)
+* [项目主页](http://doc.icorer.com/kai-yuan-i-wall-ke-xue-shang-wang-xiang-mu/)
 * [x86二进制文件下载](https://github.com/corerman/I-WALL/releases)<br />
 
 ---
