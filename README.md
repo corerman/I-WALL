@@ -25,5 +25,5 @@ Break The Web Wall 【新版本】
 
 &nbsp;&nbsp;&nbsp;&nbsp;<font color="red">项目内置一台位于美国的服务器，用来为大家提供公共服务。</font>
 ***
-####文档编辑日志
-* 文档首次编写&nbsp;&nbsp;【2016年8月11日】
+####模块更新日志
+* 增添云端账户验证&nbsp;&nbsp;【2016年8月11日】
