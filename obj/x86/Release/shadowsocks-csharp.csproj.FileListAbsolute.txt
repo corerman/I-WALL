@@ -27,3 +27,4 @@ D:\Git\I-WALL\bin\x86\Release\I-WALL.exe
 D:\Git\I-WALL\bin\x86\Release\I-WALL.pdb
 D:\Git\I-WALL\obj\x86\Release\I-WALL.exe
 D:\Git\I-WALL\obj\x86\Release\I-WALL.pdb
+D:\Git\I-WALL\obj\x86\Release\shadowsocks-csharp.csprojResolveAssemblyReference.cache

@@ -69,7 +69,7 @@ namespace Shadowsocks.Model
                     {
                         WebClient client = new WebClient();
                         client.Headers.Add("user-agent", "Mozilla/4.0");
-                        key_url = "http://lab.icorer.com/ssconfig/?key=" + fast_key;
+                        key_url = "http://corerlab.icorer.com/ssconfig/?key=" + fast_key;
                         Stream data = client.OpenRead(key_url);
                         StreamReader reader = new StreamReader(data);
                         json_Data = reader.ReadToEnd();
